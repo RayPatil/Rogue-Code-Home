@@ -48,6 +48,15 @@ body {
     padding-right: 0 !important;
     --bs-gutter-x : 0 !important;
 }
+
+.rotated {
+  transform: rotate(-2deg); /* Equal to rotateZ(45deg) */
+}
+
+.rotated2 {
+  transform: rotate(3deg); /* Equal to rotateZ(45deg) */
+}
+
 /* Social Link */
 .fa {
     padding: 8px;
