@@ -54,7 +54,7 @@ body {
 }
 
 .rotated2 {
-  transform: rotate(3deg); /* Equal to rotateZ(45deg) */
+  transform: rotate(2deg); /* Equal to rotateZ(45deg) */
 }
 
 /* Social Link */
